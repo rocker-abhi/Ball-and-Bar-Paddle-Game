@@ -1,10 +1,12 @@
 <h1 align="center" id="title">Ball And Bar Game - Python</h1>
 
-<p align="center"><img src="./screenshot/b-b.svg" alt="project-image"></p>
+
 
 <p id="description">The Ball and Bar Game is a simple yet engaging arcade game created using Python and Pygame. Players control a horizontal bar (paddle) at the bottom of the screen to bounce a moving ball upward. The objective is to prevent the ball from falling off the screen while hitting targets or maintaining a score. The game involves collision detection between the ball and the bar dynamic ball movement and user interaction via keyboard or mouse. It offers endless gameplay or progressively challenging levels. The game is ideal for beginners to learn basic game development concepts like physics events and rendering.</p>
 
 <h2>Project Screenshots:</h2>
+
+<p align="center"><img src="./screenshot/s-1.jpg" alt="project-image"></p>
 
 <h2>🧐 Features</h2>
 
