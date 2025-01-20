@@ -6,10 +6,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="screenshot/s-1.png" alt="project-screenshot" style="width:40%; height:20%;">
-
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
