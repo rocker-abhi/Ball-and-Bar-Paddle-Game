@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<p align="center"><img src="./screenshot/s-1.jpg" alt="project-image"></p>
+<p align="center"><img src="./screenshot/s-1.png" alt="project-image"></p>
 
 <h2>🧐 Features</h2>
 
